@@ -1,0 +1,1 @@
+Use to store all known formats and sample data for each of the formats, for quickfire dev testing.
